@@ -1,3 +1,4 @@
 .env
 snowflake_docs
 .snowflake_docs
+env
